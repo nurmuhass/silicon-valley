@@ -19,7 +19,7 @@ const Footer = () => {
               <br />
         
               <p className="text-white">
-              08063466463 <br /> siliconvalleyinnov@gmail.com <br /> Pompomari Maiduguri Borno State  <br />
+              08063466463 <br />  siliconvalleyinnov@gmail.com <br />nurmuhass@gmail.com <br /> Pompomari Maiduguri Borno State  <br />
               </p>
               <br />
               <button className='button-primary'>Request for quote</button>
